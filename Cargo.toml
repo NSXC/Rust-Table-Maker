@@ -1,0 +1,3 @@
+[dependencies]
+mysql = "20.0.0"
+bcrypt = "0.10.1"
